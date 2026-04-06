@@ -13,11 +13,8 @@ functions to make the program clearer and easier to manage.
 
 from karel.stanfordkarel import *
 
-
 def main():
-    """
-    TODO
-    """
+
     pass
     for i in range(3):
         move()
@@ -29,7 +26,6 @@ def main():
         move()
         turn_right()
         move()
-
 
 def turn_right():
     turn_left()
