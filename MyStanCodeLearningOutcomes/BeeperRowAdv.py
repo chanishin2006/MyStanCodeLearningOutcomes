@@ -1,6 +1,6 @@
 """
 File: BeeperRowAdv.py
-Name:詹以新ㄙㄩˉ
+Name:詹以新
 ------------------------------
 This program guides Karel to place beepers
 along Street 1, even if some beepers are
